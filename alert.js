@@ -67,7 +67,7 @@ enyo.kind({
 	kind: "onyx.Popup",
 	layoutKind: "FittableRowsLayout",
 	classes: "enyo-fit",
-	style: "width: 350px; height: 250px; position: fixed; padding: 40px; margin: 40px;",
+	style: "width: 350px; height: 250px; position: fixed; padding: 40px;",
 	centered: true,
 	modal: true,
 	floating: true,
